@@ -1,6 +1,6 @@
 Hey!👋
 - 🌱 I’m currently learning JavaScript
--  UI/UX Designer 
+- 🎨 UI/UX Designer 
 
 <!---
 hannislorake/hannislorake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
